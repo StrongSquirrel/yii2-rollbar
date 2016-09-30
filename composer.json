@@ -11,8 +11,9 @@
             "email": "andrei@baibaratsky.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
-        "rollbar/rollbar": "~0.18.0",
+        "rollbar/rollbar": "1.0.0-beta",
         "yiisoft/yii2": "*"
     },
     "autoload": {
